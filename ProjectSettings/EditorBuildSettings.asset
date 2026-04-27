@@ -8,6 +8,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1_Inicio.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/2_Dos Targets.unity
+    guid: 065fb587facab2640b7405836fb89a55
+  - enabled: 1
+    path: Assets/Scenes/3_Cambio de modelos.unity
+    guid: 0d2f3a37aacf0c2479cbd1418c1bae96
+  - enabled: 1
+    path: Assets/Scenes/4_Escaneo Plano.unity
+    guid: c2bccd3a6f1ba9b45abecb94ef1ff05f
+  - enabled: 1
+    path: Assets/Scenes/5_Joystick con target.unity
+    guid: 99e9134b26d68734f994774762e56575
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

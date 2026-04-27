@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Mapa" size="1.000000 1.455163" />
     <ImageTarget name="houses" size="1.000000 0.706122" />
     <ImageTarget name="targaryen" size="1.000000 1.500000" />
     <ImageTarget name="stark" size="1.000000 1.500000" />
