@@ -208,23 +208,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 8d781e223b778f4499dafface9a36795, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.46521825
+      value: 0.2718271
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8d781e223b778f4499dafface9a36795, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.46521828
+      value: 0.2718271
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8d781e223b778f4499dafface9a36795, type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.46521822
+      value: 0.27182707
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8d781e223b778f4499dafface9a36795, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.027
+      value: 0.001
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8d781e223b778f4499dafface9a36795, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.213
+      value: 0.142
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 8d781e223b778f4499dafface9a36795, type: 3}
       propertyPath: m_LocalPosition.z
@@ -454,7 +454,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -695, y: 643}
+  m_AnchoredPosition: {x: -259, y: 911}
   m_SizeDelta: {x: 160, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &605522539
@@ -594,8 +594,8 @@ MonoBehaviour:
   m_Script: {fileID: 2020821747, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ContentPositioningBehaviour
-  AnchorStage: {fileID: 0}
-  DuplicateStage: 0
+  AnchorStage: {fileID: 1586623785}
+  DuplicateStage: 1
   OnContentPlaced:
     m_PersistentCalls:
       m_Calls: []
@@ -1194,7 +1194,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 2007033946}
   - {fileID: 1933438807}
-  - {fileID: 1586623786}
   - {fileID: 677399136}
+  - {fileID: 1586623786}
   - {fileID: 1984635541}
   - {fileID: 209202554}
